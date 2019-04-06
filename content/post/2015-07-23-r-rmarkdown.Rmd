@@ -21,7 +21,7 @@ Suena paranoico, o melancolico? Un poco, pero no es el punto. El objetivo es sim
 
 El titulo del blog, *More than a black screen*, surge de una conversacion en que me preguntaban que tenia de divertido trabajar en una terminal de linux (Fig1), yo decia que en realidad se pueden hacer muchas cosas, que practicamente la informatica surgio trabajando en esta forma tan *austera* (y de hecho muchos programadores lo seguimos haciendo), y que si tomas el gusto por esta simplicidad, es mucho mas que una pantalla negra. Es mas, este blog lo escribire en estas condiciones.
 
-![](/post/2015-07-23-r-rmarkdown_files/Black_screen_example.png){}
+![](/post/2015-07-23-r-rmarkdown_files/Black_screen_example.png){height=100%, width=100%}
 
 Gracias por leerme.
 
