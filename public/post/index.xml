@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on More then a black screen</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on More then a black screen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>More than a black screen</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>La idea de este blog es ir agregando contenido de vez en cuando. Ultimamente he tendio el pensamiento de que pasaria en algunas decadas, como puedo dejar un registro de mi existencia? Me gustaria pensar que algun dia mis hijos, o mis nietos podran leer este blog y conocer un poco de mi persona.
+Suena paranoico, o melancolico? Un poco, pero no es el punto. El objetivo es simplemente ir agregando escritos, fotos, imagenes, apuntes, reviews o cualquier cosa que vaya llamando mi atencion, tampoco espero que este blog sea popular, para nada, lo vuelvo a decir, es un registro personal de anecdotas.</description>
+    </item>
+    
+  </channel>
+</rss>
